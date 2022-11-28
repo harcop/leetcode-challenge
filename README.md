@@ -9,3 +9,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [longest-substring-without-repeating-char](longest-substring-without-repeat.js)
 
 [median-of-two-sorted-array](median-of-two-sorted-array.js)
+
+[longest-palindromic-substring](longest-palindromic-substring.js)
