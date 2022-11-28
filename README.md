@@ -7,3 +7,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [add-two-number](add-two-numbers.js)
 
 [longest-substring-without-repeating-char](longest-substring-without-repeat.js)
+
+[median-of-two-sorted-array](median-of-two-sorted-array.js)
