@@ -11,3 +11,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [median-of-two-sorted-array](median-of-two-sorted-array.js)
 
 [longest-palindromic-substring](longest-palindromic-substring.js)
+
+[zigzag-conversion](zigzag-conversion.js)
