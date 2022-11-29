@@ -13,3 +13,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [longest-palindromic-substring](longest-palindromic-substring.js)
 
 [zigzag-conversion](zigzag-conversion.js)
+
+[reverse-integer](reverse-integer.js)
