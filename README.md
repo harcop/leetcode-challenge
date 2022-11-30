@@ -15,3 +15,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [zigzag-conversion](zigzag-conversion.js)
 
 [reverse-integer](reverse-integer.js)
+
+[string-to-integer](string-to-integer.js)
