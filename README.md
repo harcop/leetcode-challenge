@@ -17,3 +17,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [reverse-integer](reverse-integer.js)
 
 [string-to-integer](string-to-integer.js)
+
+[palindrome](palindrome.js)
