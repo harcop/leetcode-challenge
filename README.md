@@ -19,3 +19,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [string-to-integer](string-to-integer.js)
 
 [palindrome](palindrome.js)
+
+[regular-expression-matching](regular-expression-matching.js)
