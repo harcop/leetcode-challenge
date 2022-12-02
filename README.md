@@ -25,3 +25,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [container-with-most-water](container-with-most-water.js)
 
 [integer-to-roman](integer-to-roman.js)
+
+[roman-to-integer](roman-to-integer.js)
