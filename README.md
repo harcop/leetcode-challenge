@@ -31,3 +31,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [longest-common-prefix](longest-common-prefix.js)
 
 [three-sum](three-sum.js)
+
+[three-sum-closest](three-sum-closest.js)
