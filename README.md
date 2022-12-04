@@ -29,3 +29,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [roman-to-integer](roman-to-integer.js)
 
 [longest-common-prefix](longest-common-prefix.js)
+
+[three-sum](three-sum.js)
