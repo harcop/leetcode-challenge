@@ -33,3 +33,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [three-sum](three-sum.js)
 
 [three-sum-closest](three-sum-closest.js)
+
+[letter-combinations-of-a-phone-number](letter-combinations-of-a-phone-number.js)
