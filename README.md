@@ -39,3 +39,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [four-sum](four-sum.js)
 
 [remove-nth-node-from-end-of-list](remove-nth-node-from-end-of-list.js)
+
+[valid-parentheses](valid-parentheses.js)
