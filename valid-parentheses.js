@@ -10,12 +10,11 @@ function validParentheses(parens) {
       if(arr[arr.length - 1] !== match[paren]) {
         return false
       }
-      arr.splice(arr.length - 1, 1)
+      arr.pop()
     } else {
       arr.push(paren)
     }
   }
-  console.log(arr)
   return arr.length ? false : true
 }
 

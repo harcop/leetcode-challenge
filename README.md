@@ -43,3 +43,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [valid-parentheses](valid-parentheses.js)
 
 [merge-two-sorted-lists](merge-two-sorted-lists.js)
+
+[generate-parentheses](generate-parentheses.js)
