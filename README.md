@@ -41,3 +41,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [remove-nth-node-from-end-of-list](remove-nth-node-from-end-of-list.js)
 
 [valid-parentheses](valid-parentheses.js)
+
+[merge-two-sorted-lists](merge-two-sorted-lists.js)
