@@ -45,3 +45,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [merge-two-sorted-lists](merge-two-sorted-lists.js)
 
 [generate-parentheses](generate-parentheses.js)
+
+[merge-k-sorted-lists](merge-k-sorted-lists.js)
