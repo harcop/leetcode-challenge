@@ -47,3 +47,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [generate-parentheses](generate-parentheses.js)
 
 [merge-k-sorted-lists](merge-k-sorted-lists.js)
+
+[swap-nodes-in-pairs](swap-nodes-in-pairs.js)
