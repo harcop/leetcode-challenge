@@ -51,3 +51,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [swap-nodes-in-pairs](swap-nodes-in-pairs.js)
 
 [reverse-nodes-in-k-group](reverse-nodes-in-k-group.js)
+
+[find-the-index-of-the-first-occurrence-in-a-string](find-the-index-of-the-first-occurrence-in-a-string.js)
