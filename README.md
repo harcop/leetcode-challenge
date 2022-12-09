@@ -49,3 +49,5 @@ This is me challeging myself to solve atleast 2 questions on leet code for the n
 [merge-k-sorted-lists](merge-k-sorted-lists.js)
 
 [swap-nodes-in-pairs](swap-nodes-in-pairs.js)
+
+[reverse-nodes-in-k-group](reverse-nodes-in-k-group.js)
